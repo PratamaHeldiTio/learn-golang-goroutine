@@ -1,3 +1,3 @@
-module learn-golang-goroutine
+module learn_golang_goroutine
 
 go 1.18
