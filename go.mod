@@ -1,3 +1,3 @@
-module github.com/PratamaHeldiTio/learn_golang_goroutine
+module github.com/PratamaHeldiTio/learn-golang-goroutine
 
 go 1.18
